@@ -42,4 +42,5 @@ while (estatus == 1):
         estatus=1
 
 else:
+
     print("Gracias, hasta luego")
